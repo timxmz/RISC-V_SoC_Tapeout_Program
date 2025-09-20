@@ -13,6 +13,7 @@ This repository is a documentation of my **week-by-week progress** with tasks in
 
 ---
 
+<div allign="center>
 # Week 0 — Setup & Tools
 
 | Task | Description | Status |
