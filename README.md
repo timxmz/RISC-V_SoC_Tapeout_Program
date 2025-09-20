@@ -18,7 +18,7 @@ This repository is a documentation of my **week-by-week progress** with tasks in
 
 | Task | Description | Status |
 |------|-------------|---------|
-| [Tools Installation](Week0/README.md) |  [Tools](Week0/README.md) — Installation of **Iverilog**, **Yosys**, and **gtkWave** | Done |
+| [Tools Installation](Week0/README.md) |  [Tools](Week0/README.md) — Installation of **Iverilog**, **yosys**, and **gtkwave** | Done |
 
 # Key Learnings from Week 0
  Installed and verified **open-source EDA tools** successfully.   
