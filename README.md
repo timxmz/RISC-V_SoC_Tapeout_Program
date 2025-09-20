@@ -38,5 +38,5 @@ I am grateful to [**Kunal Ghosh**](https://github.com/kunalg123) and Team **[VLS
 [![RISC-V](https://img.shields.io/badge/RISC--V-International-green?style=flat-square)](https://riscv.org/)
 [![Efabless](https://img.shields.io/badge/Efabless-Platform-orange?style=flat-square)](https://efabless.com/)
 
-**Participant:** [**timxmz**](https://github.com/timxmz)
+**Participant: ** [timxmz](https://github.com/timxmz/)
 ---
