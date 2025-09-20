@@ -8,7 +8,6 @@
 
 </div>
 
-
 Welcome to my journey through the **SoC Tapeout Program VSD**!  
 This repository is a documentation of my **week-by-week progress** with tasks inside each week.  
 
@@ -18,14 +17,11 @@ This repository is a documentation of my **week-by-week progress** with tasks in
 
 | Task | Description | Status |
 |------|-------------|---------|
-| [**Task 0**](Week0/Task0/README.md) | 🛠️ [Tools Installation](Week0/Task0/README.md) — Installed **Iverilog**, **Yosys**, and **gtkWave** | ✅ Done |
-
-
+| [**Task 0**](Week0/Task0/README.md) |  [Tools](Week0/README.md) — Installation of **Iverilog**, **Yosys**, and **gtkWave** | Done |
 
 # Key Learnings from Week 0
 - Installed and verified **open-source EDA tools** successfully.   
 - Prepared the system for upcoming **RTL to GDSII flow experiments**.
-
 
 # Acknowledgment  
 
@@ -35,17 +31,11 @@ I am grateful to [**Kunal Ghosh**](https://github.com/kunalg123) and Team **[VLS
 
 [![Week0](https://img.shields.io/badge/Week%200-Tools%20Setup-success?style=flat-square)](Week0)
 ![Week 1](https://img.shields.io/badge/Week%201-Coming%20Soon-lightgrey?style=flat-square)
-![Week 2](https://img.shields.io/badge/Week%202-Upcoming-lightgrey?style=flat-square)
-
-
+![Week 2](https://img.shields.io/badge/Week%202-Upcoming-lightgrey?style=flat-square
 
 **Program Links:**
 [![VSD Website](https://img.shields.io/badge/VSD-Official%20Website-blue?style=flat-square)](https://vsdiat.vlsisystemdesign.com/)
 [![RISC-V](https://img.shields.io/badge/RISC--V-International-green?style=flat-square)](https://riscv.org/)
 [![Efabless](https://img.shields.io/badge/Efabless-Platform-orange?style=flat-square)](https://efabless.com/)
-
-
-
-
 
 ---
