@@ -21,8 +21,8 @@ This repository is a documentation of my **week-by-week progress** with tasks in
 | [**Task 0**](Week0/Task0/README.md) |  [Tools](Week0/README.md) — Installation of **Iverilog**, **Yosys**, and **gtkWave** | Done |
 
 # Key Learnings from Week 0
-- Installed and verified **open-source EDA tools** successfully.   
-- Prepared the system for upcoming **RTL to GDSII flow experiments**.
+ Installed and verified **open-source EDA tools** successfully.   
+ Prepared the system for upcoming **RTL to GDSII flow experiments**.
 
 # Acknowledgment  
 
