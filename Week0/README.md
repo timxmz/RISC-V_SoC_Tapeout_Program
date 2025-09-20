@@ -24,6 +24,9 @@ $ sudo apt-get install build-essential clang bison flex \
     graphviz xdot pkg-config python3 libboost-system-dev \
     libboost-python-dev libboost-filesystem-dev zlib1g-dev
 $ make config-gcc
+#Yosys includes required libraries like abc as Git submodules. If these submodules are not initialized or updated correctly, make can encounter errors.
+#So we run the following command
+$ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
