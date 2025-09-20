@@ -12,8 +12,7 @@ Welcome to my journey through the **SoC Tapeout Program VSD**!
 This repository is a documentation of my **week-by-week progress** with tasks inside each week.  
 
 ---
-
-<div allign="center>
+<div align="center">
   
 # Week 0 — Setup & Tools
 
@@ -41,5 +40,7 @@ I am grateful to [**Kunal Ghosh**](https://github.com/kunalg123) and Team **[VLS
 [![Efabless](https://img.shields.io/badge/Efabless-Platform-orange?style=flat-square)](https://efabless.com/)
 
 **Participant:** [timxmz](https://github.com/timxmz/)
+
+</div>
 
 ---
